@@ -1,0 +1,16 @@
+PODS:
+  - HKUILayoutShorthands (1.0.0)
+
+DEPENDENCIES:
+  - HKUILayoutShorthands (~> 1.0.0)
+
+SPEC REPOS:
+  trunk:
+    - HKUILayoutShorthands
+
+SPEC CHECKSUMS:
+  HKUILayoutShorthands: b1aa0a404e9c567ac7109c252caa682e512f4faa
+
+PODFILE CHECKSUM: 042aaed5e80da0a8ee81d580e9b1fb6a8201656c
+
+COCOAPODS: 1.8.4

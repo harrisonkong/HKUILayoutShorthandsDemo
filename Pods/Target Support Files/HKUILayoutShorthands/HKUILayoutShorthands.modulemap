@@ -1,0 +1,6 @@
+framework module HKUILayoutShorthands {
+  umbrella header "HKUILayoutShorthands-umbrella.h"
+
+  export *
+  module * { export * }
+}
